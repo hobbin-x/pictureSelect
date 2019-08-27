@@ -1,0 +1,15 @@
+.pictureContent{
+  float: left;
+  margin-right: 5px;
+  position: relative;
+}
+.seletAll{
+  text-align: left;
+}
+.picChecked{
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  top: 3px;
+  left: 2px;
+}
